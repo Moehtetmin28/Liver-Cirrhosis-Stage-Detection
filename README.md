@@ -1,9 +1,9 @@
 # Liver-Cirrhosis-Stage-Detection
 
-#Objective
+# Objective
 Building a system that can output the level of liver damage (liver cirrhosis) with patient data.
 
-#Dataset
+# Dataset
 The data provided is sourced from a Mayo Clinic study on primary biliary cirrhosis (PBC) of the liver carried out from 1974 to 1984.
 
 Description of columns:
